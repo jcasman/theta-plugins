@@ -81,7 +81,6 @@ English(US) | [日本語](README.ja.md)
 ## Plugins are more convenient and easy to use.
 The Android™ base OS RICOH THETA model can expand various types of functions via plugins just like adding functions to your smartphone by installing apps.
 Customize your THETA and take it to the next level!  
-[See details](https://www.thetalab.ricoh/en/plugin/)
 
 ## Make your THETA
 Plugins can be developed for the Android™ OS based RICOH THETA. By developing different types of plugins, you can completely customize the features of the RICOH THETA.
